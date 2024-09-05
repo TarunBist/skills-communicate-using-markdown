@@ -7,3 +7,10 @@ _Random update to test markdown formatting_
 ``` Python
 var = "Wheek!"
 ```
+
+## Adding in task list ##
+Planning Backpacking Trip:
+- [x] Compile list of gear
+- [ ] Test all gear pre-trip
+- [ ] Get the combined weight of gear
+- [ ] Look into weather forecast 
