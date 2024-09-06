@@ -32,11 +32,19 @@ Planning Backpacking Trip:
 </details>
 
 ---
-> Rinse your damn brush before and after putting on the toothpaste.
+> Rinse your damn brush before and after putting on the toothpaste.[^1]
 - Buddha
 
+testing quoting code blocks: `dfgdgf`
+
+when testing the relative links, the readme file should be at [relative link to README](README.md)
+
++ The Matrix
+  + The Matrix Reloaded
+    + The Matrix Revolutions
+   
 
 
-
+[^1]: The quote may or may not be fictional
 
 
